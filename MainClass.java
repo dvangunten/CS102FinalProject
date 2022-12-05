@@ -65,7 +65,7 @@ public class MainClass
                 }
                 default:
                 {
-                    System.out.println("\nOnly O or Q are valid entries");
+                    System.out.println("\nOnly O, A, or Q are valid entries");
                 }
             }
         
